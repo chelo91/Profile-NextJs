@@ -132,7 +132,7 @@ export default () => (
       }
       
       .btn{
-        padding: 3px;
+        margin: 2px !important;
       }
 
       @media screen and (min-width: 1135px) {
